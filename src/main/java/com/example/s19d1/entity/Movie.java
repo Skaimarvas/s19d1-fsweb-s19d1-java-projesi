@@ -1,5 +1,5 @@
 
-package com.workintech.s19d1.entity;
+package com.example.s19d1.entity;
 
 import java.util.ArrayList;
 import java.util.List;
